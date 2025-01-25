@@ -65,23 +65,6 @@ https://github.com/ajsat007/Employee-Management-System.git Give the example
 
 ## Home Page :-
 
-![](https://github.com/ajsat007/Employee-Management-System/blob/main/Preview/Home%20Page.png)
-
-## Add Employee:-
-
-![](https://github.com/Akshay-Pandhare/BooK-Store-Management/blob/main/Book-Store-Management/ProjectPreview/Add-Books.png)
-
-## Edit User:-
-
-![](https://github.com/Akshay-Pandhare/BooK-Store-Management/blob/main/Book-Store-Management/ProjectPreview/Edit%20Book.png)
-
-## Employee details :-
-
-![](https://github.com/Akshay-Pandhare/BooK-Store-Management/blob/main/Book-Store-Management/ProjectPreview/AvailableBooks.png)
-
-## Delete User:-
-
-![](https://github.com/Akshay-Pandhare/BooK-Store-Management/blob/main/Book-Store-Management/ProjectPreview/NewBook.png)
 
 
 
@@ -94,10 +77,7 @@ https://github.com/ajsat007/Employee-Management-System.git Give the example
 
 # ✍️ Authors `<a name = "authors"></a>`
 
-- [@ajinkyasatkar](https://github.com/ajsat007) - Idea & Initial work
+- [@Balaji](https://github.com/Balaji610/Employee-Management-System-main) - Idea & Initial work
 
-# 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
 
-- Instruct me for project: - @juniedenysolomon
-- Inspiration:-@bhupendraparihar
-- References:-@juniedenysolomon
+
