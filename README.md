@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/ajsat007/Employee-Management-System/blob/main/images%20(1).jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/balaji/Employee-Management-System/blob/main/images%20(1).jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Employee management System</h3>
@@ -54,7 +54,7 @@ Java 17 or higher.
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
 ```
-https://github.com/ajsat007/Employee-Management-System.git Give the example
+https://github.com/Balaji610/Employee-Management-System-main Give the example
 ```
 
 3.Imported it in Idea intellj IDE or any other Java IDE and VS Code for Frontend .
